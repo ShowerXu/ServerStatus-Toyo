@@ -1,6 +1,6 @@
 
 该分支更换为新的外观主题，样子请参考下图：
-
+![FCEdxA.png](https://github.com/ShowerXu/ServerStatus-Toyo/blob/ShowerXu-NewGUI/FCEdxA.png?raw=true)
 
 # ServerStatus-Toyo： 
 
