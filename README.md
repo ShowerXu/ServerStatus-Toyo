@@ -4,6 +4,10 @@
 * 在线演示：https://tz.toyoo.pw    
 * 我的博客：https://doub.io/shell-jc3/
 
+
+左上角分支Shower_NewGUI更换为新的外观主题，样子请参考下图：
+![FCEdxA.png](https://github.com/ShowerXu/ServerStatus-Toyo/blob/ShowerXu-NewGUI/FCEdxA.png?raw=true)
+
 # 目录介绍：
 
 * clients  客户端文件
